@@ -1,0 +1,5 @@
+{
+  "verifyRole": "ROLE_ID",
+  "autoRole": "ROLE_ID",
+  "welcomeChannel": "CHANNEL_ID"
+}
